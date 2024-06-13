@@ -1,2 +1,3 @@
 # example1
-this is my first repoo
+this is my first repository
+
